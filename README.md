@@ -1,4 +1,4 @@
-Role Name
+Apigee OPDK Setup OS Sysctl
 =========
 
 This role performs updates to sysctl.conf.
